@@ -7,7 +7,7 @@ Resultado de las practicas de la intro de frontend-mision  :smiley:
 | AbogaBOT ⭐️ | Link 🚀 |
 | ------------- | ------------- |
 | Presentacion  | [AbogaBOT]() |
-| Requerimientos :black_nib: | [Requerimientos]()|
+| Requerimientos :black_nib: | [Requerimientos](https://github.com/mibarra24/Frontend-INTRO_Practicas/blob/main/1.%20Requerimientos.pdf)|
 | Persona :boy: | [Buyerpersona](https://github.com/mibarra24/Frontend-INTRO_Practicas/blob/main/2.%20Buyer%20Persona.png)|
 | Publico objetivo :mag_right: | [Objetivo](https://github.com/mibarra24/Frontend-INTRO_Practicas/blob/main/3.%20Publico%20Objetivo.png)|
 | Wireframes :memo: | [Wireframe](https://github.com/mibarra24/Frontend-INTRO_Practicas/tree/main/4.%20UX%20Wireframe)|
